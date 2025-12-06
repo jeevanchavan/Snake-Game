@@ -1,6 +1,3 @@
-# Snake-Game
-I have created a snake game to improve my js logic.
-
 # Snake-Game 🐍
 
 A simple Snake game built with plain JavaScript, HTML, and CSS — to improve my JS and DOM skills.
