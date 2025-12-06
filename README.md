@@ -2,6 +2,10 @@
 
 A simple Snake game built with plain JavaScript, HTML, and CSS — to improve my JS and DOM skills.
 
+🔗 Live Demo:
+https://jeevanchavan.github.io/Snake-Game/
+
+
 ## ✅ What is this
 
 - Classic Snake game where you control the snake using arrow keys  
@@ -56,9 +60,7 @@ I made this project to practise:
 
 ## 📸 Screenshot
 
-*(You can add screenshot images here later — helps others see UI quickly)*
 
-## 📝 License / Note
+<img width="1882" height="940" alt="Screenshot 2025-12-06 221017" src="https://github.com/user-attachments/assets/a4e13e99-da8b-440f-9140-751ff2823571" />
 
-This is a learning project — feel free to fork it, modify it, and learn.  
 
